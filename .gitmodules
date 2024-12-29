@@ -1,0 +1,3 @@
+[submodule "MyRepo"]
+	path = MyRepo
+	url = https://github.com/AnushkaGosavi5/MyRepo
